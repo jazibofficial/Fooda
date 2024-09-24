@@ -25,4 +25,4 @@ export default function App() {
       <Search foodData={filteredData} />
     </div>
   );
-}
+} 
